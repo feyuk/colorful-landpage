@@ -1,4 +1,4 @@
-# Decoration Website
+# Colorful Agency Landpage
 
 ![preview](image-preview.png)
 
