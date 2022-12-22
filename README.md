@@ -5,8 +5,6 @@
 
 ### About
 
-Colorful agency landing page
-
 Features:
 
 - View the optimal layout for the site depending on their device's screen size
